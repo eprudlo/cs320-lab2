@@ -1,1 +1,4 @@
-# cs320-lab2
+# g6ix
+
+We are g6ix.
+
